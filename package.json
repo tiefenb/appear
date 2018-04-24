@@ -3,7 +3,7 @@
   "version": "1.0.3",
   "description": "utility to run functions when dom elements are visible",
   "kewords": "detect viewable elements dom lazy load scroll ",
-  "main": "appear.js",
+  "main": "dist/appear.js",
   "directories": {
     "test": "test"
   },
